@@ -21,6 +21,7 @@ enum class SuperColor(var r: Int, var g: Int, var b: Int) {
     fun rgb() = (r * 256 + g) * 256 + b;
 }
 
+// Main函数
 fun main(args: Array<String>) {
     if (args.isNotEmpty()) {
         println("Hello, ${args[0]}") // 使用${}语法支持插入
