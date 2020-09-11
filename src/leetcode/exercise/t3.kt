@@ -1,3 +1,5 @@
+package leetcode.exercise
+
 class t3 {
     fun findDuplicateNumbers(intArr: IntArray) : Int {
         var count = 0
