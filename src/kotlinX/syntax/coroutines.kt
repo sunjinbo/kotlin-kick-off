@@ -1,4 +1,4 @@
-package kotlin.syntax
+package kotlinX.syntax
 
 // 启动线程
 

@@ -1,4 +1,4 @@
-package kotlin.syntax
+package kotlinX.syntax
 
 // if判断语句
 

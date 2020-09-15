@@ -1,4 +1,4 @@
-package kotlin.syntax
+package kotlinX.syntax
 
 import java.lang.Exception
 

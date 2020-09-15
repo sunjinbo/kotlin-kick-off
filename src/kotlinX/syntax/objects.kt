@@ -1,4 +1,4 @@
-package kotlin.syntax
+package kotlinX.syntax
 
 // 类
 abstract class Animal {
