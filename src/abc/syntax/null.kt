@@ -1,4 +1,4 @@
-package kotlinX.syntax
+package abc.syntax
 
 // 可空变量的使用
 fun test(num: Int) : Int? {

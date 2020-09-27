@@ -1,4 +1,4 @@
-package kotlinX.syntax
+package abc.syntax
 
 import java.util.Random
 

@@ -1,4 +1,4 @@
-package kotlinX.syntax
+package abc.syntax
 
 // 数组
 val arr1 = arrayOf(1, 2, 3)

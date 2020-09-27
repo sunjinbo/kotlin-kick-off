@@ -1,4 +1,4 @@
-package kotlinX.syntax
+package abc.syntax
 
 // 没有返回值
 fun test1() {
